@@ -15,3 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![Metrics](/github-metrics.svg)
+![Metrics](/profile-3d-contrib/profile-green-animate.svg)
